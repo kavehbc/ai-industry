@@ -6,5 +6,9 @@ def main():
     return "Hello World!"
 
 
+def hello_world():
+    return "This is my Hello World! "
+
+
 if __name__ == '__main__':
     main()
