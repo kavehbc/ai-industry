@@ -9,6 +9,10 @@ def main():
 def response():
     return "Hello World from daniel!"
 
+def calculate():
+    return 1+1
+
+
 
 def hello_world():
     return "This is my Hello World! "
