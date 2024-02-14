@@ -4,6 +4,8 @@ def main():
     :return: a hello world message
     """
     return "Hello World!"
+def response():
+    return "Hello World!"
 
 
 def hello_world():
