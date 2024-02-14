@@ -7,7 +7,7 @@ def main():
 
 
 def response():
-    return "Hello World!"
+    return "Hello World from daniel!"
 
 
 def hello_world():
