@@ -10,7 +10,7 @@ def response():
     return "Hello World from daniel!"
 
 def calculate():
-    return 2+2
+    return 1+1
 
 
 
