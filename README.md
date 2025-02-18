@@ -1,2 +1,2 @@
 # ai-industry
-AI in Industry - Changed
+AI applications in Industry
