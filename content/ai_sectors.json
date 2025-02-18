@@ -1,6 +1,8 @@
 {"AI-sectors": 
     {
-        "Energy": {"Description": "How AI impact the Energy Sector"},
-        "Health": {"Description": "TODO" }
+        "Energy": {"Description": "How AI impact the Energy Sector",
+                    "Presenter": "Felipe"},
+        "Health": {"Description": "TODO",
+                    "Presenter": "Joseline"}
     }
 }
