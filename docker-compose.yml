@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  dashboard:
+    image: my-dash
+    container_name: dash
+    ports:
+      - 80:8501
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      - api
+    restart: always
+  api:
+    image: my-api
+    container_name: api
+    ports:
+      - 8080:8000
+    restart: always
+networks:
+  default:
+    driver: bridge
